@@ -312,7 +312,7 @@ img {
 }
 
 .l-page-recruit {
-  background-image: url(/img/bg/bg-recruit.png);
+  background-image: url(./bg-recruit.png);
   background-size: cover;
 }
 
@@ -921,7 +921,7 @@ img {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background-image: url(/img/bg/bg_hero.png);
+  background-image: url(./bg_hero.png);
   background-size: cover;
 }
 
@@ -1060,7 +1060,7 @@ img {
 
 .p-hero {
   position: relative;
-  background-image: url(../../../img/bg/bg_hero.png);
+  background-image: url(./bg_hero.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1515,7 +1515,7 @@ img {
 
 .p-company .l-inner {
   text-align: center;
-  background-image: url(/img/bg/bg_face.png), url(/img/bg/bg_circle.png);
+  background-image: url(./bg_face.png), url(./bg_circle.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 60% 40%;
@@ -1929,7 +1929,7 @@ img {
 
 .p-message .l-inner {
   text-align: center;
-  background-image: url(/img/bg/bg_face.png), url(/img/bg/bg_circle.png);
+  background-image: url(./bg_face.png), url(./bg_circle.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: top;
